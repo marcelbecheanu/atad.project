@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['calculatenumberearthquakemagnitude_1',['calculateNumberEarthquakeMagnitude',['../histogram_8h.html#a0a2e208d7ee9631bf73336a7b11fb3f6',1,'histogram.c']]],
+  ['calculatestatistics_2',['calculateStatistics',['../countryStatisticsUtils_8h.html#ac26e72546b4cd237e4efce40ebbdb7b5',1,'countryStatisticsUtils.c']]],
+  ['calculatestatisticsforcountries_3',['calculateStatisticsForCountries',['../countryStatisticsUtils_8h.html#ab6fa0cba22daf59420fca7fc6624003f',1,'countryStatisticsUtils.c']]],
+  ['calculatestatisticsforregion_4',['calculateStatisticsForRegion',['../countryStatisticsUtils_8h.html#a583f4fee7c188852943d4f0ee46827c3',1,'countryStatisticsUtils.c']]],
+  ['clearcountrylocationsarray_5',['clearCountryLocationsArray',['../countryLocations_8c.html#a56cf468ce2f2a7ac532d08021d8d168d',1,'clearCountryLocationsArray(CountryLocationsArray array, int *discardedRecords):&#160;countryLocations.c'],['../countryLocations_8h.html#a56cf468ce2f2a7ac532d08021d8d168d',1,'clearCountryLocationsArray(CountryLocationsArray array, int *discardedRecords):&#160;countryLocations.c']]],
+  ['compareearthquakecountrycodes_6',['compareEarthquakeCountryCodes',['../earthquakeUtils_8h.html#a5c242e0bd032fac801a0551f0a7f1b88',1,'earthquakeUtils.c']]],
+  ['compareearthquakeyears_7',['compareEarthquakeYears',['../earthquakeUtils_8h.html#ad835795b01aa71cda2a0f1b42be8bea9',1,'earthquakeUtils.c']]],
+  ['countearthquake_8',['countEarthquake',['../earthquakeUtils_8h.html#af61717ac619b53bc2a68fae3a84e83c0',1,'earthquakeUtils.c']]],
+  ['countrylocation_9',['countryLocation',['../structcountryLocation.html',1,'']]],
+  ['countrylocation_10',['CountryLocation',['../countryLocations_8h.html#ac5305ca48ffefc59716734f538557594',1,'countryLocations.h']]],
+  ['countrylocations_2ec_11',['countryLocations.c',['../countryLocations_8c.html',1,'']]],
+  ['countrylocations_2eh_12',['countryLocations.h',['../countryLocations_8h.html',1,'']]],
+  ['countrylocationsarray_13',['countryLocationsArray',['../structcountryLocationsArray.html',1,'']]],
+  ['countrylocationsarray_14',['CountryLocationsArray',['../countryLocations_8h.html#ae5ebd14e229ef9027c10c767d6223f88',1,'countryLocations.h']]],
+  ['countrylocationsarrayadd_15',['countryLocationsArrayAdd',['../countryLocations_8c.html#a96881b2db934e7edd6ab720d10c70b08',1,'countryLocationsArrayAdd(CountryLocationsArray array, CountryLocation location):&#160;countryLocations.c'],['../countryLocations_8h.html#a96881b2db934e7edd6ab720d10c70b08',1,'countryLocationsArrayAdd(CountryLocationsArray array, CountryLocation location):&#160;countryLocations.c']]],
+  ['countrylocationsarraysize_16',['countryLocationsArraySize',['../countryLocations_8c.html#a931d43ff27f650157809f70e59c10844',1,'countryLocationsArraySize(CountryLocationsArray array, int *ptSize):&#160;countryLocations.c'],['../countryLocations_8h.html#a931d43ff27f650157809f70e59c10844',1,'countryLocationsArraySize(CountryLocationsArray array, int *ptSize):&#160;countryLocations.c']]],
+  ['countrystatistics_17',['countryStatistics',['../structcountryStatistics.html',1,'']]],
+  ['countrystatistics_18',['CountryStatistics',['../countryStatistics_8h.html#ab1c70d584e4801ebdb37868adcad8ec7',1,'countryStatistics.h']]],
+  ['countrystatistics_2eh_19',['countryStatistics.h',['../countryStatistics_8h.html',1,'']]],
+  ['countrystatisticsutils_2eh_20',['countryStatisticsUtils.h',['../countryStatisticsUtils_8h.html',1,'']]],
+  ['createcountrylocationsarray_21',['createCountryLocationsArray',['../countryLocations_8c.html#a990704a5fea3e4306b58ce846a23dbae',1,'createCountryLocationsArray():&#160;countryLocations.c'],['../countryLocations_8h.html#a990704a5fea3e4306b58ce846a23dbae',1,'createCountryLocationsArray():&#160;countryLocations.c']]],
+  ['createearthquake_22',['createEarthquake',['../earthquake_8h.html#a643a06314c564fe97e6d72cdaec94323',1,'earthquake.c']]]
+];
